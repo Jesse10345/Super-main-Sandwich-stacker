@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_baconTop",
     "eventList": [
-        
+        {
+            "id": "c87a201c-7ed5-47a8-ba39-964df0425b20",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "b8b75cc6-fed0-457f-9bf1-4d7711ce5679",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "90eb35e8-0de8-41de-9757-2277dc730e53"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
