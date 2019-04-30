@@ -1,9 +1,15 @@
 // VARIABLES
-left = keyboard_check(vk_left)
-right = keyboard_check(vk_right)
-up = keyboard_check(vk_up)
-down = keyboard_check(vk_down)
+
+press = mouse_check_button_pressed(mb_left)
+coordinate = mouse_x
+half = room_width/2
 
 // MOVEMENT
-if(left) x -= 8;
-if (right) x += 8;
+// MOVE LEFT
+if (mouse_check_button(mb_left)) and (coordinate < half){
+	x -= 8
+}
+// MOVE RIGHT
+if (mouse_check_button(mb_left)) and (coordinate > half){
+	x += 8
+}
