@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "1cfc645d-8360-4af6-bbdf-ae7a46b8780c",
+            "Value": {
+                "id": "8e337b21-0ca8-4ea1-9ad5-a6992a440ab4",
+                "resourcePath": "sounds\\splat_2\\splat_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "2fb6fd3c-ff15-42f1-9533-c525997fb748",
             "Value": {
                 "id": "32d93b8c-b1c6-4bb7-b460-8a8706d9e560",
@@ -159,11 +167,27 @@
             }
         },
         {
+            "Key": "4a4bf976-a87a-4d1c-b9de-4a5b7a45d97b",
+            "Value": {
+                "id": "e703ed40-1aac-43d4-9640-c098f886067a",
+                "resourcePath": "sounds\\bite\\bite.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "4c29c24b-2fb4-4781-b4f6-e962cc4d0b9d",
             "Value": {
                 "id": "5375d2e1-fcf4-4a88-babb-2296f1fc5cb5",
                 "resourcePath": "objects\\obj_lettuceSide\\obj_lettuceSide.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4d6ffe14-89a6-49e0-a652-f902b8f4caeb",
+            "Value": {
+                "id": "46421158-9bd4-4850-95de-161c3f8c7392",
+                "resourcePath": "sounds\\crunch\\crunch.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -204,6 +228,22 @@
                 "id": "26aa8765-a58b-42e7-b2c6-7973bab59256",
                 "resourcePath": "views\\57743747-34ea-46f2-9949-fa581fe1bf3b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5cd5ec99-1aa7-491f-a2fe-465b3572e1fc",
+            "Value": {
+                "id": "27b10e72-7603-4375-b4e2-a670f6b94194",
+                "resourcePath": "sounds\\burp\\burp.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "66681006-c87c-40bf-b35a-11ace62bf568",
+            "Value": {
+                "id": "bde84680-36e5-4a45-a50e-493093357b54",
+                "resourcePath": "sounds\\splat\\splat.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -292,6 +332,14 @@
                 "id": "05d5db5b-4c9a-402d-b8a1-b10ba46dbe5f",
                 "resourcePath": "objects\\obj_score\\obj_score.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "97747e2a-8a06-492e-9fd3-8e593219a65c",
+            "Value": {
+                "id": "e2b771aa-605b-42d3-ac77-80fec67beb80",
+                "resourcePath": "sounds\\cough\\cough.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -444,6 +492,14 @@
                 "id": "b44d49f1-dfbc-4764-9b2d-54c2e96ffd55",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f419ff7a-9c99-41c8-8221-5a9730af0535",
+            "Value": {
+                "id": "1d957317-8dff-4e33-a3fc-6795c404f853",
+                "resourcePath": "sounds\\whistle\\whistle.yy",
+                "resourceType": "GMSound"
             }
         },
         {
